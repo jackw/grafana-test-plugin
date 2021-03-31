@@ -12,6 +12,10 @@
   },
   "author": "Jack Westbrook",
   "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jackw/grafana-test-plugin.git"
+  },
   "devDependencies": {
     "@grafana/data": "latest",
     "@grafana/toolkit": "latest",
