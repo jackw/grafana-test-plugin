@@ -2,14 +2,14 @@
   "$schema": "https://raw.githubusercontent.com/grafana/grafana/master/docs/sources/developers/plugins/plugin.schema.json",
   "type": "panel",
   "name": "tester-tester",
-  "id": "heywesty-tester-tester",
+  "id": "heywesty-tester-panel",
   "info": {
     "description": "",
     "author": {
       "name": "Jack Westbrook",
-      "url": ""
+      "url": "https://www.heywesty.com"
     },
-    "keywords": [],
+    "keywords": ["panel", "testing"],
     "logos": {
       "small": "img/logo.svg",
       "large": "img/logo.svg"
